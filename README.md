@@ -1,2 +1,2 @@
 # updateInternet.github.io
-My Homepage http://updateInternet.github.com
+Hold files for my homepage https://updateinternet.github.io/
